@@ -1,0 +1,25 @@
+{
+  "name": "vue-card-slide",
+  "version": "0.0.1",
+  "description": "Vue powered card slides",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadefication/vue-card-slide.git"
+  },
+  "keywords": [
+    "card",
+    "slides",
+    "vue",
+    "component"
+  ],
+  "author": "Glen Gringgo Bangkila <hadeinvane@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadefication/vue-card-slide/issues"
+  },
+  "homepage": "https://github.com/hadefication/vue-card-slide#readme"
+}
